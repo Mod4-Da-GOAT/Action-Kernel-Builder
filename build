@@ -5,7 +5,7 @@ set -e -x
 # Kernel Source
 KERNEL_SOURCE="https://github.com/krazey/android_kernel_samsung_exynos9810"
 KERNEL_BRANCH="android-4.11-b-wip"
-KERNEL_DEFCONFIG="vendor/atoll-perf_defconfig"
+KERNEL_DEFCONFIG="exynos9810-star2lte_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
 CLANG_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r547379.tar.gz"

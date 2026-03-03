@@ -17,6 +17,7 @@ on:
         - s-oss
         - r-oss
         - q-oss
+        - b-oss
 
 permissions:
   contents: write
